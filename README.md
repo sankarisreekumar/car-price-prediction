@@ -78,8 +78,7 @@ Run the Jupyter Notebook:
 jupyter notebook Car_Price_Prediction.ipynb
 
 📈 Results
-
-The best performing model achieved an R² score of X.XX.
+The best performing model achieved an R² score of  0.50.
 
 Random Forest provided the most accurate predictions compared to other models.
 
